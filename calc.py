@@ -1,3 +1,3 @@
-a=3
-b=4
+a,b=map(int,input().split())
+
 print(a+b)
